@@ -1,1 +1,1 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+I am new to Project Management.  Here are my skills:  __organization__, _service to others_, _and alround **nice** guy_.
